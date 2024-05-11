@@ -1,0 +1,12 @@
+[submodule "Website-API"]
+	path = Website-API
+	url = git@github.com:Uncoded-AI/Website-API.git
+[submodule "docType"]
+	path = docType
+	url = git@github.com:Uncoded-AI/docType.git
+[submodule "Website"]
+	path = Website
+	url = https://github.com/Uncoded-AI/Website
+[submodule "Churn-Analysis-of-a-Company"]
+	path = Churn-Analysis-of-a-Company
+	url = https://gitlab.com/ujjwalkar0/Churn-Analysis-of-a-Company
